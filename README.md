@@ -55,21 +55,3 @@ To use the Chatbot GUI, simply run the application and start interacting with th
 The project requires the following Python packages:
 
 - `tkinter`: For creating the GUI.
-- Additional dependencies are listed in the `requirements.txt` file.
-
-## Contributing
-
-We welcome contributions! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request. When contributing, please ensure your changes align with the project's coding standards and guidelines.
-
-## License
-
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
-## Acknowledgements
-
-- Special thanks to the developers of the libraries used in this project.
-- Any other acknowledgements you would like to include.
-
----
-
-Feel free to customize this description further to better fit the specifics and goals of your project.
